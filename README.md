@@ -60,6 +60,12 @@
 
 <br/>
 
+## ❤ Views and Followers
+<a>
+    <img src="https://komarev.com/ghpvc/?username=pallav1998">
+</a>
+
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
