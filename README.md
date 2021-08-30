@@ -39,9 +39,27 @@
 </p>
 
 <h2 align="left">👷 Stats so far</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallav1998&show_icons=true&locale=en" alt="pallav1998" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallav1998&" alt="pallav1998" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallav1998&show_icons=true&locale=en&layout=compact" alt="pallav1998" /></p>
+<p align="center">
+    <a >
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pallav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pallav1998&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  <p align="center">
+    <a ><img alt="Pallav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pallav1998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    </p>
+
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallav1998&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    </p>
+  <br/>
+
+<br/>
+
+<a href="https://activity-graph.herokuapp.com/graph?username=pallav1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=trueh"><img alt="Pallav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pallav1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
