@@ -1,4 +1,5 @@
-### Hi 👋, I'm Pallav Jain
+<h1 align="center">Hi 👋, I'm Pallav Jain</h1>
+<hr/>
 
  </br>
 <img align="right" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="300" height="200"/>
