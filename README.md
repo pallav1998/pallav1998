@@ -54,9 +54,9 @@
  </p>
  
  <br/>
-
+<p>
   <a href="https://activity-graph.herokuapp.com/graph?username=pallav1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=trueh"><img alt="Pallav's Activity        Graph" src="https://activity-graph.herokuapp.com/graph?username=pallav1998&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+</p>
 <br/>
 
 <!-- ## ❤ Views and Followers
