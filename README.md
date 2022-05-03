@@ -6,9 +6,9 @@
 
 ### About me:
 
-- 🌱 I’m currently learning **Data Structures/ Algorithms.**
+- 🌱 I’m currently learning **Data Structures/Algorithms.**
 
-- 💬 Ask me about **React/HTML/CSS/JAVASCRIPT**
+- 💬 Ask me about **React/HTML/CSS/JavaScript/Solidity/Blockchain**
 
 - ⚡ Fun fact **I ❤️ Trading**
 
