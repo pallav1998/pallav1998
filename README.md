@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures/Algorithms.**
 
-- 💬 Ask me about **React/HTML/CSS/JavaScript/Solidity/Blockchain**
+- 💬 Ask me about **React/CSS/JavaScript/Solidity/Blockchain**
 
 - ⚡ Fun fact **I ❤️ Trading**
 
