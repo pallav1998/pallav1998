@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallav Jain</h1>
 
 </br>
-<img align="right" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="350" height="250"/>
+<img align="right" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="320" height="250"/>
 </br></br></br>
 
 ### About me:
