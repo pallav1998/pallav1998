@@ -3,7 +3,7 @@
 </br>
 <div align="right">
     <img align="right" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="320" height="250"/>
-<!--     </br></br></br> -->
+    </br></br></br>
 </div>
 
 ### About me:
