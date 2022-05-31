@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I ❤️ Trading**
 
+</br></br>
+
 # _I am willing to collaborate as a team player building better code._
 
 <br/>
